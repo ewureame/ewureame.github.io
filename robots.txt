@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ewureame.github.io/AEk/sitemap_index.txt
+Sitemap: https://ewureame.github.io/iRa/sitemap_index.txt
+Sitemap: https://ewureame.github.io/jIC/sitemap_index.txt
+Sitemap: https://ewureame.github.io/otm/sitemap_index.txt
